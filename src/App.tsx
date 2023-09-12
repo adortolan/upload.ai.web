@@ -83,9 +83,7 @@ export function App() {
               <Upload className="w-4 h-4 ml-2" />
             </Button>
           </form>
-
           <Separator />
-
           <form className="space-y-6">
             <div className="space-y-2">
               <Label>Prompt</Label>
